@@ -1,0 +1,19 @@
+.is-invalid {
+    border: 2px solid red;
+  }
+  
+  .text-danger {
+    color: red;
+  }
+  
+  .error-message {
+    color: red;
+    font-size: 0.8rem;
+    margin-top: 0.2rem;
+  }
+  .text-warning {
+    display: block;
+    margin-top: 0.25rem;
+    font-size: 80%;
+    color: #ffc107;
+  }
